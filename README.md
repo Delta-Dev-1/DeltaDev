@@ -22,6 +22,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=MetaProdigyDev&label=Profile%20Views&color=8&icon=8&pretty=true)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=MetaProdigyDev&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 
