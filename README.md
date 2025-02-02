@@ -1,5 +1,42 @@
 # 💫 About Me:
-🌐 I'm currently working on:<br>Building mobile applications with Flutter and improving my backend skills with Java and Kotlin while also working on my UI/UX skills, exploring AI integration, and leveraging Google Cloud technologies as a Google Cloud Innovator.<br>🛠️ I'm looking for help with:<br>Optimizing performance in Flutter apps, exploring advanced features in Kotlin and Java, and incorporating AI to make smarter apps.<br>🌱 I'm currently learning:<br>Advanced Flutter animations, state management, backend integration using Kotlin and Java, and how to implement AI/ML in mobile development.<br>💬 Ask me about:<br>Cross-platform development, Flutter, AI integration in apps, or the differences between Kotlin and Java for Android development.<br>⚡ Fun fact:<br>I started coding at 9 and love turning my ideas into real apps that work on both Android and iOS!
+🌐 I'm currently working on:<br>  
+Building **mobile applications** with **Flutter** and improving my **backend skills** with **Java and Kotlin** while also refining my **UI/UX design skills**, exploring **AI integration**, and leveraging **Google Cloud technologies** as a **Google Cloud Innovator**.  
+
+Additionally, I am developing a **gravitational wave (GW) simulator**, which I’m **open-sourcing on GitHub**. This simulator explores **General Relativity and gravitational waves**, combining **scientific accuracy** with **high-performance computational modeling**. I’m passionate about merging **physics and software engineering**, using simulations to **visualize complex relativistic effects**.  
+
+---
+
+🛠️ I'm looking for help with:<br>  
+- **Optimizing performance** in **Flutter** apps for better efficiency and responsiveness.  
+- Exploring **advanced Kotlin and Java features** for improved backend development.  
+- **Incorporating AI/ML** to make mobile applications **smarter and more adaptive**.  
+- **Enhancing computational efficiency** in my **GW simulator** to handle more complex simulations in **relativistic physics**.  
+- Learning best practices for **scaling mobile applications** and optimizing **cloud-based solutions**.  
+
+---
+
+🌱 I'm currently learning:<br>  
+- **Advanced Flutter animations** and **state management techniques** to create more **seamless** and **fluid UI experiences**.  
+- **Backend development** using **Kotlin and Java**, focusing on building **scalable and secure APIs**.  
+- **AI and ML integration** for mobile applications, exploring ways to enhance **user experience** with **intelligent automation**.  
+- **General Relativity (GR) and gravitational wave physics**, applying them to **numerical simulations** in my **GW simulator**.  
+- **Performance optimization** techniques for **high-speed numerical computation**, improving the efficiency of **relativistic effect simulations**.  
+
+---
+
+💬 Ask me about:<br>  
+- **Cross-platform development**: Best practices for **Flutter** and **React Native**.  
+- **Flutter performance optimization**: Improving app speed, responsiveness, and **battery efficiency**.  
+- **AI integration in mobile apps**: How to add **AI-powered features** to enhance user experience.  
+- **Kotlin vs. Java for Android development**: When to use each and how they compare in **modern app development**.  
+- **Gravitational wave simulations**: How I’m applying **General Relativity concepts** in computational physics.  
+
+---
+
+⚡ Fun fact:<br>  
+I started **coding at 9** and love turning **ideas into real apps** that work seamlessly on **Android and iOS**! 🚀  
+
+I also have a **deep passion for physics**, especially **General Relativity and gravitational waves**, which inspired me to **build my own relativistic effect simulator**. I'm always looking for ways to merge **theoretical physics with software engineering**, whether through **simulations, AI, or innovative applications**.  
 
 
 ## 🌐 Socials:
