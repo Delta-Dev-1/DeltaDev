@@ -63,6 +63,8 @@ I also have a **deep passion for physics**, especially **General Relativity and 
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Sine_wave.gif" width="600">
+</p>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
